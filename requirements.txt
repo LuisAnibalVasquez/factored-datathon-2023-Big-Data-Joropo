@@ -1,1 +1,12 @@
 azure-storage-blob==12.17.0
+pandas==1.2.4
+scipy
+textblob
+transformer
+threadpoolctl
+torch
+torchvision 
+torchaudio
+fastapi
+uvicorn
+pydantic
