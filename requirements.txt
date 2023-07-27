@@ -1,12 +1,8 @@
-azure-storage-blob==12.17.0
 pandas==1.2.4
 scipy
 textblob
 transformers==4.30.2
-threadpoolctl
 torch
-torchvision 
-torchaudio
 fastapi
 uvicorn
 pydantic
