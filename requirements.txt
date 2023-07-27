@@ -10,3 +10,4 @@ torchaudio
 fastapi
 uvicorn
 pydantic
+nltk
