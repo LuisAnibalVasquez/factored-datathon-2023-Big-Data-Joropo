@@ -2,7 +2,7 @@ azure-storage-blob==12.17.0
 pandas==1.2.4
 scipy
 textblob
-transformer==4.31.0
+transformers==4.31.0
 threadpoolctl
 torch
 torchvision 
