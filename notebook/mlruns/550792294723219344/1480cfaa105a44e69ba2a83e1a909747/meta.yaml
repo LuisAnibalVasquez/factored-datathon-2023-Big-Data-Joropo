@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/1480cfaa105a44e69ba2a83e1a909747/artifacts
+end_time: 1690943255637
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 1480cfaa105a44e69ba2a83e1a909747
+run_name: skittish-horse-405
+run_uuid: 1480cfaa105a44e69ba2a83e1a909747
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690943253808
+status: 3
+tags: []
+user_id: laptop

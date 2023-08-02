@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/58c3b2f3ccfa40e5a2e48293f6554212/artifacts
+end_time: 1690941391608
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 58c3b2f3ccfa40e5a2e48293f6554212
+run_name: rare-doe-710
+run_uuid: 58c3b2f3ccfa40e5a2e48293f6554212
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690941391538
+status: 3
+tags: []
+user_id: laptop

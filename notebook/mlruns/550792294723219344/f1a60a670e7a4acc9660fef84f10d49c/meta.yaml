@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/f1a60a670e7a4acc9660fef84f10d49c/artifacts
+end_time: 1690983022453
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: f1a60a670e7a4acc9660fef84f10d49c
+run_name: spiffy-stoat-915
+run_uuid: f1a60a670e7a4acc9660fef84f10d49c
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690983010822
+status: 3
+tags: []
+user_id: laptop

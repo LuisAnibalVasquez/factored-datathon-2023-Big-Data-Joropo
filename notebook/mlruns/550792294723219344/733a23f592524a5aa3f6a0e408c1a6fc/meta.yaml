@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/733a23f592524a5aa3f6a0e408c1a6fc/artifacts
+end_time: 1690943627991
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 733a23f592524a5aa3f6a0e408c1a6fc
+run_name: unleashed-gnat-347
+run_uuid: 733a23f592524a5aa3f6a0e408c1a6fc
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690943626155
+status: 3
+tags: []
+user_id: laptop

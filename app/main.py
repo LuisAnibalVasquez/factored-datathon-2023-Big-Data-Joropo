@@ -1,5 +1,7 @@
 from fastapi import FastAPI
-from app.nlp import clean_text, correct_text, predict_sentiment
+from pattern.en import sentiment
+
+# from app.nlp import clean_text, correct_text, predict_sentiment
 
 description = """
 You will be able to:
@@ -15,12 +17,8 @@ app = FastAPI(
  
 @app.get("/")
 async def root():
-    return {"message": "Hello World"}
+    return {"message": "Hello World it is the Big Data & Joropo team API"}
 
-# This method allows you to predict the sentiment from the review
 @app.post("/sentimet/{review}")
 async def sentiment_analisys_on_reviews(review:str):
-    clean_review = clean_text(review)
-    correct_review = correct_text(clean_review)
-    return predict_sentiment(correct_review)
-
+    return sentiment(review)

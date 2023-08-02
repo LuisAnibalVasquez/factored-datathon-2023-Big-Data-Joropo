@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/552701311f56452eaf6b5bf02665886b/artifacts
+end_time: 1690990462712
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 552701311f56452eaf6b5bf02665886b
+run_name: sneaky-yak-982
+run_uuid: 552701311f56452eaf6b5bf02665886b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690990450053
+status: 3
+tags: []
+user_id: laptop

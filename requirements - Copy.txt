@@ -1,0 +1,9 @@
+pandas==1.2.4
+scipy
+textblob
+transformers==4.30.2
+torch
+fastapi
+uvicorn
+pydantic
+nltk
