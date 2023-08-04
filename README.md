@@ -23,7 +23,7 @@ Contains Python and Jupyter Notebooks used to clean and prepare the two datasets
 - Replacing useless values with nulls, changing data types and data formats like the "price" column.
 - Creation of the columns "also_buy_count" and "also_view_count".
 
-eda_all_metadata.ipynb: receives all of the preprocessed partitions. The outputs are the cleaned metadata of books and the lists of book asin's used in the reviews data preparation.
+[eda_all_metadata.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/Data%20Transformation/eda_all_metadata.ipynb): receives all of the preprocessed partitions. The outputs are the cleaned metadata of books and the lists of book asin's used in the reviews data preparation.
 - Concat all of the pre-processed partitions and filter by books only (2.8M books).
 - Drop the columns: "also_buy","also_view","date","main_category"
 - Drop rows with invalid "brand" names.
