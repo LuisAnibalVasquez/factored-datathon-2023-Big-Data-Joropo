@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/93caf307ddc14ba6aa1e72f1f478861a/artifacts
+end_time: 1691024091091
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 93caf307ddc14ba6aa1e72f1f478861a
+run_name: monumental-crane-956
+run_uuid: 93caf307ddc14ba6aa1e72f1f478861a
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691024090966
+status: 3
+tags: []
+user_id: laptop

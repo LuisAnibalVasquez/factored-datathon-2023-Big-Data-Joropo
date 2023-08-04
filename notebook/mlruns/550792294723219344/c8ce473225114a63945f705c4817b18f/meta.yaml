@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/c8ce473225114a63945f705c4817b18f/artifacts
+end_time: 1691024523977
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: c8ce473225114a63945f705c4817b18f
+run_name: unleashed-dog-934
+run_uuid: c8ce473225114a63945f705c4817b18f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691024522042
+status: 3
+tags: []
+user_id: laptop

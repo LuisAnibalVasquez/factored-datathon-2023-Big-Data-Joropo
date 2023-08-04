@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/4b43b0b699c64e539aef7c4f31744d19/artifacts
+end_time: 1691025791845
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 4b43b0b699c64e539aef7c4f31744d19
+run_name: amazing-tern-902
+run_uuid: 4b43b0b699c64e539aef7c4f31744d19
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691025789959
+status: 3
+tags: []
+user_id: laptop

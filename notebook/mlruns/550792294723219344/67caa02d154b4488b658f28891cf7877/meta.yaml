@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/67caa02d154b4488b658f28891cf7877/artifacts
+end_time: 1691025588353
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 67caa02d154b4488b658f28891cf7877
+run_name: bemused-hound-258
+run_uuid: 67caa02d154b4488b658f28891cf7877
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691025586427
+status: 3
+tags: []
+user_id: laptop

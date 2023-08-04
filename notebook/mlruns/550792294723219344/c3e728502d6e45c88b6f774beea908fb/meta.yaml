@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/c3e728502d6e45c88b6f774beea908fb/artifacts
+end_time: 1691001047187
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: c3e728502d6e45c88b6f774beea908fb
+run_name: classy-elk-125
+run_uuid: c3e728502d6e45c88b6f774beea908fb
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691001045456
+status: 3
+tags: []
+user_id: laptop

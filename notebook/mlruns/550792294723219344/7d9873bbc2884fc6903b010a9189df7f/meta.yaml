@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/7d9873bbc2884fc6903b010a9189df7f/artifacts
+end_time: 1690996017986
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 7d9873bbc2884fc6903b010a9189df7f
+run_name: nebulous-rook-693
+run_uuid: 7d9873bbc2884fc6903b010a9189df7f
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1690996017853
+status: 3
+tags: []
+user_id: laptop

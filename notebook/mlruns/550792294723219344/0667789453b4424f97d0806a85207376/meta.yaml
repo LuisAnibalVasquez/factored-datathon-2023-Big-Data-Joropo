@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/0667789453b4424f97d0806a85207376/artifacts
+end_time: 1691165577059
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 0667789453b4424f97d0806a85207376
+run_name: resilient-stork-211
+run_uuid: 0667789453b4424f97d0806a85207376
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691165576924
+status: 3
+tags: []
+user_id: laptop

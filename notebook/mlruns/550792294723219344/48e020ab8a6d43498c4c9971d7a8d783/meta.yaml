@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/48e020ab8a6d43498c4c9971d7a8d783/artifacts
+end_time: 1691182262009
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 48e020ab8a6d43498c4c9971d7a8d783
+run_name: fortunate-cod-669
+run_uuid: 48e020ab8a6d43498c4c9971d7a8d783
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691182261883
+status: 3
+tags: []
+user_id: laptop

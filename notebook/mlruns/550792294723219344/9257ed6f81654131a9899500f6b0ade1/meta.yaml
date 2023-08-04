@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/9257ed6f81654131a9899500f6b0ade1/artifacts
+end_time: 1691074460552
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 9257ed6f81654131a9899500f6b0ade1
+run_name: languid-perch-899
+run_uuid: 9257ed6f81654131a9899500f6b0ade1
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691074458753
+status: 3
+tags: []
+user_id: laptop

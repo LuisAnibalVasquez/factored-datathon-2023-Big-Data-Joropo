@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/fefaf4cd9c964aba83785630966d4e23/artifacts
+end_time: 1691165126779
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: fefaf4cd9c964aba83785630966d4e23
+run_name: dapper-auk-834
+run_uuid: fefaf4cd9c964aba83785630966d4e23
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691165126685
+status: 3
+tags: []
+user_id: laptop

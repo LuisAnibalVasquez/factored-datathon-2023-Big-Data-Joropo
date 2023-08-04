@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/f70214e8f31646938b2ef041db53a6b8/artifacts
+end_time: 1691165106906
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: f70214e8f31646938b2ef041db53a6b8
+run_name: mercurial-panda-627
+run_uuid: f70214e8f31646938b2ef041db53a6b8
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691165030055
+status: 3
+tags: []
+user_id: laptop

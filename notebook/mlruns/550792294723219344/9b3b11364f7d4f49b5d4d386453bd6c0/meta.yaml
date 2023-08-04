@@ -1,0 +1,15 @@
+artifact_uri: file:///d:/Proyectos/Portafolio/factored-datathon-2023-Big-Data-Joropo/notebook/mlruns/550792294723219344/9b3b11364f7d4f49b5d4d386453bd6c0/artifacts
+end_time: 1691002899262
+entry_point_name: ''
+experiment_id: '550792294723219344'
+lifecycle_stage: active
+run_id: 9b3b11364f7d4f49b5d4d386453bd6c0
+run_name: shivering-sow-192
+run_uuid: 9b3b11364f7d4f49b5d4d386453bd6c0
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1691002898941
+status: 3
+tags: []
+user_id: laptop
