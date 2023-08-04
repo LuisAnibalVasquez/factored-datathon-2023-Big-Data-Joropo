@@ -4,8 +4,6 @@ Index:
 - Project Summary
 - Data Extraction
 - Data Transformation
-* Metadata
-* Reviews
 - Machine Learning
 - Data Analytics
 
