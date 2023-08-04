@@ -1,8 +1,10 @@
 # factored-datathon-2023-Big-Data-Joropo
-
-This repository contains the source code developed by the Big Data & Joropo theme for the Datathon Factored 2023.
-
-The repo contains the following
+This repository contains the source code developed by the Big Data & Joropo team for the Datathon Factored 2023.
+Index:
+## Data Extraction
+## Data Transformation
+## Machine Learning
+## Data Analytics
 
 Python scripts used in the data engineering phase to download the data partitions hosted in azure
 
