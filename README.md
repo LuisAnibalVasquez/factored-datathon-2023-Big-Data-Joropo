@@ -5,6 +5,7 @@ Index:
 - Data Extraction
 - Data Transformation
 - Machine Learning
+- App
 - Data Analytics
 
 ## Project Summary
@@ -31,20 +32,24 @@ Contains Python and Jupyter Notebooks used to clean and prepare the two datasets
 - Filter only the books placed in the Top 25k Rank to be used with reviews for Machine Learning (list of 12k books).
 
 ## Machine Learning
--
+- [Join_Data_for_Recommender.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/notebook/Join_Data_for_Recommender.ipynb):
+This notebook allows you to concatenate and filter the data necessary to train the Machine Learning model.
+
+- [Modeling_recommender_system.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/notebook/Modeling_recommender_system.ipynb)
+In this notebook the model for the Recommender System is created.
+
+## APP
+- [main.py](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/app/main.py):
+Entry point of the REST API, conformed by a GET method to determine the sentiment analysis of the review.
+
+The API is deployed [here](https://joropo-factored.onrender.com/docs)
 
 ## Data Analytics
+Power BI Dashboard where valuable insights are shown from the provided review and metadata files, the dashboard can be seen here []
 Link the Power BI Dashboard
 
-Python scripts used in the data engineering phase to download the data partitions hosted in azure
-
-Power BI Dashboard where valuable insights are shown from the provided review and metadata files, the dashboard can be seen here []
-
-API developed to obtain the sentiment analysis of a review, this API was developed with python and deployed in a docker container in the Render provider, you can visit the API and its documentation [here](https://joropo-factored.onrender.com/docs)
-
-Jupyter notebook and model of a product recommendation system.
-
 Tools and libraries used:
+
         Visual Studio Code
         Jupyter Notebook
 
@@ -52,7 +57,7 @@ Tools and libraries used:
 
         Python
 
-        Pattern     (library)
-        MLFlow      (library)
-        Tensorflow  (library)
-
+        Pattern     
+        MLFlow      
+        Tensorflow  
+        Tensorflow Recommenders
