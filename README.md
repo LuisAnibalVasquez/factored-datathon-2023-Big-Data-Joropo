@@ -12,6 +12,9 @@ Contains Python scripts used in the Data Engineering phase to download the data 
 ## Data Transformation
 Contains Python and Jupyter Notebooks used to clean and prepare the two datasets: metadata and reviews.
 
+### Metadata
+x
+
 
 ## Machine Learning
 -
