@@ -24,10 +24,11 @@ data_cleaning_metadata.ipynb: cleaning each of the 15 partitions of metadata and
 - Creation of the columns "also_buy_count" and "also_view_count".
 
 eda_all_metadata.ipynb: receives all of the preprocessed partitions. The outputs are the cleaned metadata of books and the lists of book asin's used in the reviews data preparation.
-- Concat all of the pre-processed partitions and filter by books only.
+- Concat all of the pre-processed partitions and filter by books only (2.8M books).
 - Drop the columns: "also_buy","also_view","date","main_category"
-- Drop rows with invalid "brand" names
-- Drop rows with nulls
+- Drop rows with invalid "brand" names.
+- Drop rows with nulls (383k books remaining).
+- Filter only the books placed in the Top 25k Rank to be used with reviews for Machine Learning (list of 12k books).
 
 ## Machine Learning
 -
