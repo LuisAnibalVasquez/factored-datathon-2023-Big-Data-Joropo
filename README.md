@@ -17,13 +17,18 @@ Contains Python scripts used in the Data Engineering phase to download the data 
 Contains Python and Jupyter Notebooks used to clean and prepare the two datasets: metadata and reviews.
 
 ### Metadata
-data_cleaning_metadata.ipynb: cleaning each of the 15 partitions of metadata and transforming to parquet files
+[data_cleaning_metadata.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/Data%20Transformation/data_cleaning_metadata.ipynb): cleaning each of the 15 partitions of metadata and transforming to parquet files.
 - Removed the columns "details.X", "tech1", "tech2", "fit" and "similar_item".
 - Transformation of the columns "image", "category" and "rank" into useful versions: "image_count", "category_count" and "rank_in_category".
 - Replacing useless values with nulls, changing data types and data formats like the "price" column.
-- Creation of the columns "also_buy_count" and "also_view_count"
+- Creation of the columns "also_buy_count" and "also_view_count".
 
-eda_all_metadata.ipynb: 
+[eda_all_metadata.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/Data%20Transformation/eda_all_metadata.ipynb): receives all of the preprocessed partitions. The outputs are the cleaned metadata of books and the lists of book asin's used in the reviews data preparation.
+- Concat all of the pre-processed partitions and filter by books only (2.8M books).
+- Drop the columns: "also_buy","also_view","date","main_category"
+- Drop rows with invalid "brand" names.
+- Drop rows with nulls (383k books remaining).
+- Filter only the books placed in the Top 25k Rank to be used with reviews for Machine Learning (list of 12k books).
 
 ## Machine Learning
 -
