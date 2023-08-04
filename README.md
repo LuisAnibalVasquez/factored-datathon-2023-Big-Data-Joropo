@@ -1,10 +1,14 @@
 # factored-datathon-2023-Big-Data-Joropo
 This repository contains the source code developed and all of the related files by the Big Data & Joropo team for the Datathon Factored 2023. <br />
 Index:
+- Project Summary
 - Data Extraction
 - Data Transformation
 - Machine Learning
 - Data Analytics
+
+## Project Summary
+[redactar resumen]
 
 ## Data Extraction
 Contains Python scripts used in the Data Engineering phase to download the data partitions hosted in Azure.
@@ -13,12 +17,13 @@ Contains Python scripts used in the Data Engineering phase to download the data 
 Contains Python and Jupyter Notebooks used to clean and prepare the two datasets: metadata and reviews.
 
 ### Metadata
-data_cleaning_metadata.ipynb: cleaning each of the 15 partitions of metadata and transformig to parquet files
+data_cleaning_metadata.ipynb: cleaning each of the 15 partitions of metadata and transforming to parquet files
 - Removed the columns "details.X", "tech1", "tech2", "fit" and "similar_item".
 - Transformation of the columns "image", "category" and "rank" into useful versions: "image_count", "category_count" and "rank_in_category".
 - Replacing useless values with nulls, changing data types and data formats like the "price" column.
 - Creation of the columns "also_buy_count" and "also_view_count"
 
+eda_all_metadata.ipynb: 
 
 ## Machine Learning
 -
