@@ -2,6 +2,7 @@ fastapi
 uvicorn
 pydantic
 pattern
-tensorflow
+protobuf
 streamlit
 requests
+tensorflow
