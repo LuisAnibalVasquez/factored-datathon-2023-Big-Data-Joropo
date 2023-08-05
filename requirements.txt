@@ -2,7 +2,7 @@ fastapi
 uvicorn
 pydantic
 pattern
-protobuf
+protobuf ==3.19.0
 streamlit
 requests
 tensorflow
