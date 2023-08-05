@@ -4,3 +4,4 @@ pydantic
 pattern
 tensorflow
 streamlit
+requests
