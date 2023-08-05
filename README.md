@@ -14,6 +14,12 @@ Index:
 ## Data Extraction
 Contains Python scripts used in the Data Engineering phase to download the data partitions hosted in Azure.
 
+### Batch
+[01_fetch_batch.py](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/Data%20Extraction/01_fetch_batch.py): fetching the batch data
+
+### Stream
+[02_fetch_stream.py](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/Data%20Extraction/02_fetch_stream.py): fetching the streaming data
+
 ## Data Transformation
 Contains Python and Jupyter Notebooks used to clean and prepare the two datasets: metadata and reviews.
 
