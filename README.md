@@ -17,7 +17,7 @@ It can be used to track product performance, identify trends, and make informed 
 - Data analysis: The data was analyzed to identify trends and patterns. This included calculating the average rating for each product category, the distribution of ratings, among others.
 - Dashboard development: A Power BI dashboard was developed to visualize the data analysis results. The dashboard includes a variety of charts and graphs that make it easy to understand the data.
 
-![alt text](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/references/data_pipeline.png?raw=true)
+![Data Pipeline](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/references/data_pipeline.png)
 
 
 ## Data Extraction
