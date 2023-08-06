@@ -40,7 +40,7 @@ def main():
                 st.write(data)
 
     with st.form('recommender_form'):        
-        submitRecommender = st.form_submit_button("Get recomendation")                            
+        submitRecommender = st.form_submit_button("Get recommendation")                            
         if submitRecommender:
             if reviewerID == "":
                 st.warning('Reviewer ID is mandatory', icon="⚠️")
