@@ -66,6 +66,7 @@ The Streamlit App is deployed [here](https://joropo-factored-app.onrender.com/)
 ## Data Analytics
 Power BI Dashboard where valuable insights are shown from the provided review and metadata files, the dashboard can be seen here []
 Link the Power BI Dashboard
+- [Here](https://app.powerbi.com/view?r=eyJrIjoiZjE4NDExYWYtM2M0NS00ZDI4LWE0ZDItZWY1ZmJlN2VlMmQ4IiwidCI6IjEyZDI2YWY0LTM2ZDUtNGUwMy1hMDJlLTJiNGMxMDc0ZTRlOCIsImMiOjJ9)
 
 Tools and libraries used:
 
