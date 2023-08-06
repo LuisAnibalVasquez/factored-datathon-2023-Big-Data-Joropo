@@ -1,5 +1,6 @@
 # factored-datathon-2023-Big-Data-Joropo
 This repository contains the source code developed and all of the related files by the Big Data & Joropo team for the Datathon Factored 2023. <br />
+
 Index:
 - Project Summary
 - Data Extraction
@@ -9,7 +10,15 @@ Index:
 - Data Analytics
 
 ## Project Summary
-[redactar resumen]
+The following project aims to provide an end-to-end dashboard for retailers and ecommerce business, using Amazon product review data
+It can be used to track product performance, identify trends, and make informed decisions about pricing and marketing.
+- Data collection: The data was collected from the Microsoft Azure Data Lake & Microsoft Azure Event Data Hub. It provides access to a variety of product review data, including the product name, price, rating, number of reviews, and star rating.
+- Data cleaning: The data was cleaned to remove any errors or inconsistencies. This included removing duplicate records, fixing typos, and standardizing the data format.
+- Data analysis: The data was analyzed to identify trends and patterns. This included calculating the average rating for each product category, the distribution of ratings, among others.
+- Dashboard development: A Power BI dashboard was developed to visualize the data analysis results. The dashboard includes a variety of charts and graphs that make it easy to understand the data.
+
+![alt text](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/references/data_pipeline.png?raw=true)
+
 
 ## Data Extraction
 Contains Python scripts used in the Data Engineering phase to download the data partitions hosted in Azure.
