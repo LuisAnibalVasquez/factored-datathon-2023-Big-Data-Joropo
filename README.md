@@ -41,8 +41,12 @@ Contains Python and Jupyter Notebooks used to clean and prepare the two datasets
 [05_data_cleaning_reviews.py](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/Data%20Transformation/05_data_cleaning_reviews.py): filters all of the reviews extracted to only show the records associated with the books in the Top 25k rank by category.
 
 ## Machine Learning
-- [Join_Data_for_Recommender.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/notebook/Join_Data_for_Recommender.ipynb):
+- [06_sentiment_confidence_analisis.py](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/Machine%20Learning/06_sentiment_confidence_analisis.py):
+This script makes the sentiment analysis
+- [07_Join_Data_for_Recommender.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/notebook/Join_Data_for_Recommender.ipynb):
 This notebook allows you to concatenate and filter the data necessary to train the Machine Learning model.
+- [08_Modeling_recommender_system.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/Machine%20Learning/08_Modeling_recommender_system.ipynb)
+Recommended system specs
 
 - [Modeling_recommender_system.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/notebook/Modeling_recommender_system.ipynb)
 In this notebook the model for the Recommender System is created.
