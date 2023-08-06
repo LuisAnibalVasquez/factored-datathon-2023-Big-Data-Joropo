@@ -47,11 +47,17 @@ This notebook allows you to concatenate and filter the data necessary to train t
 - [Modeling_recommender_system.ipynb](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/notebook/Modeling_recommender_system.ipynb)
 In this notebook the model for the Recommender System is created.
 
-## APP
+## API
 - [main.py](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/app/main.py):
-Entry point of the REST API, conformed by a GET method to determine the sentiment analysis of the review.
+Entry point of the REST API, conformed by two POST method to determine the sentiment analysis of the review and book recommendation.
 
 The API is deployed [here](https://joropo-factored.onrender.com/docs)
+
+## APP
+- [app.py](https://github.com/LuisAnibalVasquez/factored-datathon-2023-Big-Data-Joropo/blob/main/app.py)
+It is a Streamlit application which consume the REST API and show sentiment and recommendation on demand.
+
+The Streamlit App is deployed [here](https://joropo-factored-app.onrender.com/)
 
 ## Data Analytics
 Power BI Dashboard where valuable insights are shown from the provided review and metadata files, the dashboard can be seen here []
@@ -66,7 +72,8 @@ Tools and libraries used:
 
         Python
 
-        Pattern     
         MLFlow      
+        Pattern     
+        Stramlit
         Tensorflow  
         Tensorflow Recommenders
