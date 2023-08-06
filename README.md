@@ -69,6 +69,10 @@ Link the Power BI Dashboard:
 
 -[Here](https://app.powerbi.com/view?r=eyJrIjoiZjE4NDExYWYtM2M0NS00ZDI4LWE0ZDItZWY1ZmJlN2VlMmQ4IiwidCI6IjEyZDI2YWY0LTM2ZDUtNGUwMy1hMDJlLTJiNGMxMDc0ZTRlOCIsImMiOjJ9)
 
+The key influencers visual may not be available for the online report view.  
+You must be in the list of authorized emails.  
+Contact the report owners for permission.  
+
 Tools and libraries used:
 
         Visual Studio Code
