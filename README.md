@@ -19,6 +19,7 @@ It can be used to track product performance, identify trends, and make informed 
 
 ![Data Pipeline](references/data_pipeline.png)
 
+![Full Project Schema](references/full_project_schema.png)
 
 ## Data Extraction
 Contains Python scripts used in the Data Engineering phase to download the data partitions hosted in Azure.
